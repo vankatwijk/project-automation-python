@@ -1,0 +1,11 @@
+navigate to myprojects
+create folder with project name
+navigate into fiolder
+git init
+go to github and create new repository
+copy the remote
+add remote to my local foldercreate a readme fiolder
+git add
+git commit
+git push
+code .
